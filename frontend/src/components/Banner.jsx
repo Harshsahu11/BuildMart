@@ -4,26 +4,26 @@ import banner from "../../public/Banner.jpg";
 const Banner = () => {
   return (
     <>
-      <div className="max-w-screen-2xl container mx-auto md:px-20 px-4 py-10 flex flex-col md:flex-row items-center justify-between rounded-xl">
+      <div className="max-w-screen-2xl container mx-auto md:px-5 px-4 py-16 flex flex-col md:flex-row items-center justify-between rounded-xl md:mt-20">
         
-        {/* Right Image (shown first on mobile) */}
-        <div className="w-full md:w-1/2 flex justify-center order-1 md:order-2">
+        {/* Right Image (first on mobile) */}
+        <div className="w-full md:w-1/2 flex justify-center order-1 md:order-2 mt-10 md:mt-0">
           <img
             src={banner}
             alt="Banner"
-            className="rounded-lg w-full md:w-[90%] object-cover"
+            className="rounded-lg w-full md:w-[90%] md:h-[420px] h-[250px] sm:h-[300px] object-cover"
           />
         </div>
 
-        {/* Left Text Content (comes after image on mobile) */}
-        <div className="w-full md:w-1/2 order-2 md:order-1">
-          <div className="space-y-8 mt-10 md:mt-20">
-            <h1 className="text-4xl font-bold leading-snug">
+        {/* Left Text Content */}
+        <div className="w-full md:w-1/2 order-2 md:order-1 mt-8 md:mt-0">
+          <div className="space-y-8 md:pr-10">
+            <h1 className="text-3xl md:text-5xl font-bold leading-snug">
               Hello, Welcome to the World of Projects in every{" "}
               <span className="text-pink-500">Tech-Domain!!!</span>
             </h1>
 
-            <p className="text-xl">
+            <p className="text-base md:text-xl">
               Lorem ipsum dolor sit amet consectetur, adipisicing elit.
               Accusamus molestiae modi odit natus libero ipsa suscipit eveniet
               quae neque et sit nobis aliquam veniam repudiandae quo,
@@ -32,7 +32,7 @@ const Banner = () => {
 
             {/* Full-width Email Input */}
             <div className="w-full">
-              <label className="input input-bordered flex items-center gap-4 w-full">
+              <label className="input input-bordered flex items-center gap-4 w-full rounded-xl">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 16 16"
@@ -50,7 +50,7 @@ const Banner = () => {
               </label>
             </div>
 
-            <button className="btn mt-6 bg-pink-500 text-white border-none hover:bg-pink-600">
+            <button className="btn mt-6 bg-pink-500 text-white border-none hover:bg-pink-600 rounded-xl px-6 py-3">
               Send!!!
             </button>
           </div>
