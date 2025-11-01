@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "Project_name": "Portfolio Website",
+    "TechStack": "MERN",
+    "price": 0,
+    "category": "free",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR41T5LDSzvl9yWptv-woTER9VuCe2ppG7umg&s"
+  },
+  {
+    "id": 2,
+    "Project_name": "E-Commerce Store",
+    "TechStack": "React + Firebase",
+    "price": 299,
+    "category": "paid",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTHY6ZNo1v2tYyZQPuB7eUeHgHkyaKkH8qsg&s"
+  },
+  {
+    "id": 3,
+    "Project_name": "Chat Application",
+    "TechStack": "Node.js + Socket.io",
+    "price": 0,
+    "category": "free",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2w2HCpbZkijRZ6MuN1y5qvCIBJ7U0FnQeHg&s"
+  },
+  {
+    "id": 4,
+    "Project_name": "Blog Platform",
+    "TechStack": "Next.js + MongoDB",
+    "price": 199,
+    "category": "paid",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKImKTRRbuc0gN3zTZQ6Q5nWBKskU8EY5xog&s"
+  },
+  {
+    "id": 5,
+    "Project_name": "Weather Forecast App",
+    "TechStack": "React + OpenWeather API",
+    "price": 0,
+    "category": "free",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwM9VwcKQkryOp2rLEsphVqqnK4CCpF7UIJw&s"
+  },
+  {
+    "id": 6,
+    "Project_name": "Expense Tracker",
+    "TechStack": "Vue + Firebase",
+    "price": 149,
+    "category": "paid",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7bHuh2PLaDL2AG5_F8kCTccG9vUOYyR-4pQ&s"
+  },
+  {
+    "id": 7,
+    "Project_name": "AI Image Generator",
+    "TechStack": "React + OpenAI API",
+    "price": 499,
+    "category": "paid",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmlTYUj24mUqVzy8xkrCZLslDL66v_oF-2-w&s"
+  },
+  {
+    "id": 8,
+    "Project_name": "Task Manager",
+    "TechStack": "Django + React",
+    "price": 0,
+    "category": "free",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2mAi3b-2eY9guZgAv0UwX8yK9oEtHk7RGOg&s"
+  },
+  {
+    "id": 9,
+    "Project_name": "Online Learning Platform",
+    "TechStack": "MERN + JWT Auth",
+    "price": 399,
+    "category": "paid",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRF8y1klmQjSnB1smkGpIMaHjQJ5tqL0w_Hg&s"
+  },
+  {
+    "id": 10,
+    "Project_name": "Travel Booking System",
+    "TechStack": "Laravel + MySQL",
+    "price": 249,
+    "category": "paid",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdZtqvLxAAIlv0mPa5Z6pO9HKFhV3hHIeTug&s"
+  },
+  {
+    "id": 11,
+    "Project_name": "Food Delivery App",
+    "TechStack": "Flutter + Firebase",
+    "price": 349,
+    "category": "paid",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzQiWB0xvJ9dS7R8IRkTLQbC0AqGz0m7c3zA&s"
+  },
+  {
+    "id": 12,
+    "Project_name": "Crypto Price Tracker",
+    "TechStack": "React + CoinGecko API",
+    "price": 0,
+    "category": "free",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdOT2twfzQYt1-8CZsY9Kf5m-fZdp9Yy1VuA&s"
+  },
+  {
+    "id": 13,
+    "Project_name": "Online Code Editor",
+    "TechStack": "Next.js + Express",
+    "price": 499,
+    "category": "paid",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1EYva8cQBDY8pV2T7o-7ZzCijcVbH0UP7Pg&s"
+  },
+  {
+    "id": 14,
+    "Project_name": "Fitness Tracker",
+    "TechStack": "React Native + Node.js",
+    "price": 199,
+    "category": "paid",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStNqSl8Xhzl1v0JbbG5duCC1O7WMSMfKkTGw&s"
+  },
+  {
+    "id": 15,
+    "Project_name": "Movie Recommendation System",
+    "TechStack": "Python + Flask + ML",
+    "price": 0,
+    "category": "free",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbBvPeOjg0f5DkHArDmyfMwbV09Z8CUwv0JQ&s"
+  },
+  {
+    "id": 16,
+    "Project_name": "Music Streaming Platform",
+    "TechStack": "React + Node.js + MongoDB",
+    "price": 599,
+    "category": "paid",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Qq04iTVdM_qsWBqp6CPeTDuhDiItg7kOhg&s"
+  },
+  {
+    "id": 17,
+    "Project_name": "Job Portal",
+    "TechStack": "Spring Boot + React",
+    "price": 299,
+    "category": "paid",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHz5yTuEE0o12Aei-4jDSeNj31iUeolnGm1w&s"
+  },
+  {
+    "id": 18,
+    "Project_name": "Recipe Finder",
+    "TechStack": "Vue + Edamam API",
+    "price": 0,
+    "category": "free",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHt6bx4HiDMBpyuLcqk7K8KGE5uTzWqBUBRw&s"
+  },
+  {
+    "id": 19,
+    "Project_name": "Social Media Dashboard",
+    "TechStack": "Angular + Node.js",
+    "price": 399,
+    "category": "paid",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7nYz7mE_h_qhVuMdmwZ7vKvjG2g-ZOn6_JA&s"
+  },
+  {
+    "id": 20,
+    "Project_name": "Virtual Classroom",
+    "TechStack": "React + WebRTC + Firebase",
+    "price": 0,
+    "category": "free",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJgqK5h69KmcXie7tR9KcfvNBaY6FFHDFyWQ&s"
+  }
+]
